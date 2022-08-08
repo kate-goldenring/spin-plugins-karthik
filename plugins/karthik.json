@@ -8,20 +8,20 @@
         {
             "os": "linux",
             "arch": "amd64",
-            "url": "www.example.com/releases/1.0/binary.tgz",
-            "sha256": "c474f00b12345e38acae2d19b2a707a4fhdjdfdd22875efeefdf052ce19c90b"
+            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
+            "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
         },
         {
             "os": "windows",
             "arch": "amd64",
-            "url": "www.example.com/releases/1.0/binary.tgz",
-            "sha256": "eee4f00b12345e38acae2d19b2a707a4fhdjdfdd22875efeefdf052ce19c90b"
+            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
+            "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
         },
         {
             "os": "macOs",
             "arch": "aarch64",
-            "url": "www.example.com/releases/1.0/binary.tgz",
-            "sha256": "eeegf00b12345e38acae2d19b2a707a4fhdjdfdd22875efeefdf052ce19c90b"
+            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
+            "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
         }
     ]
 }
