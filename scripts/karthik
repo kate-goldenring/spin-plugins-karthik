@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "External subcommand executed with arguments $1 and $2  yay! "
+
+
+echo "$(date) - args with $1 $2" >> /tmp/spin-subcommand 
