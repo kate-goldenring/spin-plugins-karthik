@@ -8,19 +8,13 @@
         {
             "os": "linux",
             "arch": "amd64",
-            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
-            "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
-        },
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
+            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/main/scripts/karthik",
             "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
         },
         {
             "os": "macOs",
             "arch": "aarch64",
-            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/plugins/scripts/karthik",
+            "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/main/scripts/karthik",
             "sha256": "18f023db8b39b567a6889fa6597550ab2b47f7947ca47792ee6f89dfc5a814e3"
         }
     ]
