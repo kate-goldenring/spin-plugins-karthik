@@ -9,13 +9,13 @@
             "os": "linux",
             "arch": "amd64",
             "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/main/scripts/karthik.tar.gz",
-            "sha256": "d0ee91a8718a422d1306cadb2f2d5f962002ffb7592fbc727bb60f8e961ef45f"
+            "sha256": "32b7a2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9599941"
         },
         {
             "os": "macOs",
             "arch": "aarch64",
             "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/main/scripts/karthik.tar.gz",
-            "sha256": "d0ee91a8718a422d1306cadb2f2d5f962002ffb7592fbc727bb60f8e961ef45f"
+            "sha256": "32b7a2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9599941"
         }
     ]
 }
