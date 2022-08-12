@@ -6,7 +6,6 @@
     "required": [
         "name",
         "description",
-        "homepage",
         "version",
         "license",
         "packages"
@@ -20,8 +19,7 @@
             "type": "string"
         },
         "homepage": {
-            "type": "string",
-            "required": false
+            "type": "string"
         },
         "version": {
             "type": "string"
@@ -62,8 +60,10 @@
                     "sha256": {
                         "type": "string"
                     }
-                }
+                },
+                "additionalProperties": false
             }
         }
-    }
+    },
+    "additionalProperties": false
 }
