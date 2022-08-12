@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "spin-karthik",
     "description": "Some description.",
     "homepage": "www.example.com",
     "version": "1.0",
@@ -12,7 +12,7 @@
             "sha256": "32b7a2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9599941"
         },
         {
-            "os": "macOs",
+            "os": "osx",
             "arch": "aarch64",
             "url": "https://raw.githubusercontent.com/karthik2804/spin-plugins/main/scripts/karthik.tar.gz",
             "sha256": "32b7a2336b11d6694b27d9cb6056f6e6d3d702782c6a53d2aaf4a833b9599941"
