@@ -12,8 +12,7 @@
     ],
     "properties": {
         "name": {
-            "type": "string",
-            "pattern": "spin-[a-zA-Z0-9.-_]+$"
+            "type": "string"
         },
         "description": {
             "type": "string"
