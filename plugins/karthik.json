@@ -3,6 +3,7 @@
     "description": "Some description.",
     "homepage": "www.example.com",
     "version": "1.0",
+    "spinCompatibility": "=v0.4",
     "license": "Mit",
     "packages": [
         {
